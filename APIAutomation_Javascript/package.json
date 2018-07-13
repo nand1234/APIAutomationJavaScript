@@ -1,0 +1,21 @@
+{
+    "name": "api_automation",
+    "version": "1.0.0",
+    "description": "API automation",
+    "author": "Nandkumar Ghatge",
+    "dependencies": {
+        "body-parser": "^1.17.1",
+        "chai": "^3.5.0",
+        "mocha": "^3.2.0",
+        "mocha-jenkins-reporter": "^0.3.7",
+        "supertest": "^3.0.0",
+        "request": "^2.87.0",
+        "babel-cli": "^6.0.0",
+        "adal-node": "^0.1.28",
+        "config": "1.30.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {}
+}

@@ -1,0 +1,8 @@
+{
+        "authorityHostUrl" : "<Azure authorityHostUrl>",
+        "tenant" : "<Azure tenant>",
+        "applicationId" : "<Azure applicationId>",
+        "clientSecret" : "<Azure clientSecret>",
+        "resource" : "<Azure resource>",
+        "AutomationDataURL" : "https://<Domain-Name>/api/"
+}

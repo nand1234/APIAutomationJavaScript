@@ -10,7 +10,7 @@ Steps to Install:
 1. Download Repository 
 2. Open Command line 
 3. Go to Project folder
-5. Tyoe npm install (all the packages will be installed and display in node_module)
+5. Type npm install (all the packages will be installed and display in node_module)
 6. Open Project in visual studio code
 
 How to debug:

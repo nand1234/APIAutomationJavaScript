@@ -14,7 +14,8 @@ function post_client(url, method, headers, body){
         uri: url,
         method:method,
         headers:headers,
-        body:body
+        body:body,
+        JSON:true
     }
 
     return options;
